@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI YouTube Shorts Maker"
+  short_description: "AI-chosen YouTube Shorts from transcripts"
+  default_prompt: "Use transcript evidence to pick the best clip window, decide crop focus from sampled frames, then render a Shorts-ready 9:16 video with verified audio."
